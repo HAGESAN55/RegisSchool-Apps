@@ -30,7 +30,7 @@
 
 </head>
 
-<body class="bg-gradient-primary">
+<body class="bg-gradient-warning">
 
   <div class="container">
 
@@ -48,8 +48,8 @@
                   <div class="text-center">
                     <img src="assets/img/logo.png" alt="Logo sekolah" class="logo-login">
 
-                    <h1 class="h4 text-gray-900">Aplikasi Pendaftaran Siswa</h1>
-                    <h1 class="h4 text-gray-900 mb-4"><b>SMKN Darul Ulum Muncar</b></h1>
+                    <h1 class="h4 text-gray-900">Pendaftaran Siswa</h1>
+                    <h1 class="h4 text-gray-900 mb-4"><b>SMK HARAPAN BANGSA</b></h1>
 
                     <?php 
                     session_start();
